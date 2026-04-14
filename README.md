@@ -28,6 +28,5 @@
 - **증빙**: 10 Wei가 컨트랙트 내 매핑(Mapping) 변수에 정상적으로 기록된 것을 확인하였습니다.
 
 ## 4. 증빙 자료
-(여기에 과제 제출용으로 캡처한 Remix 실행 화면과 MetaMask 활동 탭 스크린샷을 첨부하세요.)
 <img width="1910" height="839" alt="스크린샷 2026-04-14 163251" src="https://github.com/user-attachments/assets/5fc10ac9-249a-4368-835a-2a6938375db2" />
 <img width="518" height="823" alt="스크린샷 2026-04-14 163132" src="https://github.com/user-attachments/assets/9a300147-d2c7-45cb-80d0-1f39a50e3707" />
